@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pesan Menu Best Seller!
+title: Menu Best Seller!
 description: Menu Best Seller Sambal Gami Uno
 date: 2022-12-04 08:00:00 +07:00
 tags: ["best seller"]
