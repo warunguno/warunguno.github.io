@@ -1,0 +1,64 @@
+	<meta charset="utf-8" />
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+	<meta name="google" content="notranslate" />
+	<meta name="robots" content="index, follow" />
+
+	<meta name="keywords" content="{{ site.keywords }}" />
+	<meta name="author" content="{{ site.name }}" />
+	<meta property="og:site_name" content="{{ site.name }}" />
+	<meta name="twitter:site" content="{{ site.name }}" />
+
+	<meta property="og:type" content="website">
+	<meta property="og:locale" content="id_ID">
+	<meta name="twitter:card" content="summary_large_image">
+
+	{% if page.thumbnail %}
+	<meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
+	<meta name="twitter:image" content="{{ site.url }}{{ page.thumbnail }}">
+	{% else %}
+	<meta property="og:image" content="{{ site.url }}{{ site.thumbnail }}">
+	<meta name="twitter:image" content="{{ site.url }}{{ site.thumbnail }}">
+	{% endif %}
+
+	{% if page.title %}
+	<meta name="title" content="{{ page.title }}" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta name="twitter:title" content="{{ page.title }}" />
+	{% else %}
+	<meta name="title" content="{{ site.name }}" />
+	<meta property="og:title" content="{{ site.name }}" />
+	<meta name="twitter:title" content="{{ site.name }}" />
+	{% endif %}
+
+	{% if page.description %}
+	<meta name="description" content="{{ page.description | strip_html }}" />
+	<meta property="og:description" content="{{ page.description | strip_html }}" />
+	<meta name="twitter:description" content="{{ page.description | strip_html }}" />
+	{% else %}
+	<meta name="description" content="{{ site.description }}" />
+	<meta property="og:description" content="{{ site.description }}" />
+	<meta name="twitter:description" content="{{ site.description }}" />
+	{% endif %}
+
+	<!-- Canonical -->
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+	<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" sizes="16x16 32x32 48x48" href="{{ site.url }}/assets/img/favicon.ico">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/img/icon-32.png">
+	<link rel="apple-touch-icon" href="{{ site.url }}/assets/img/icon-180.png">
+	<meta name="msapplication-TileImage" content="{{ site.url }}/assets/img/icon-180.png">
+
+	<!-- Status Bar -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="default">
+	<meta name="apple-mobile-web-app-title" content="{{ site.name }}">
+	<meta name="apple-mobile-web-app-status-bar" content="{{ site.theme_color }}">
+	<meta name="msapplication-TileColor" content="{{ site.theme_color }}">
+	<meta name="theme-color" content="{{ site.theme_color }}">
+
+	<!-- System Theme -->
+	<meta name="color-scheme" content="light">

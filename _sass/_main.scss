@@ -1,0 +1,39 @@
+/*
+ * Sambal Gami Uno
+ * Designed by Degiam [https://degiam.com]
+ * Copyright (c) 2022
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+$font: 'Poppins', sans-serif;
+
+* {
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+
+body {
+	font-family: $font;
+}
+
+.prose hr {
+	margin: 1.5rem 0;
+}
+
+footer {
+	.flex img {
+		transition: all .25s ease;
+		&:not(:hover) {
+			filter: grayscale(1);
+			opacity: .7;
+		}
+	}
+}
+
+@media (min-width: 768px) {
+	footer {
+		.max-w-\[500px\] img {
+			width: 180px;
+		}
+	}
+}
