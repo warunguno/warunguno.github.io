@@ -6,8 +6,8 @@ price: ""
 price_promo: ""
 date: 2022-11-30 20:00:00 +07:00
 tags: ["alamat","sambal gami uno","sobat pedes"]
-thumbnail: /products/foto-depan-sambal-gami-uno-pekalongan.jpg
-products: ["/products/foto-depan-sambal-gami-uno-pekalongan.jpg"]
+thumbnail: /products/foto-depan-sambal-gami-uno-pekalongan2.jpg
+products: ["/products/foto-depan-sambal-gami-uno-pekalongan2.jpg"]
 ---
 
 ## Di Sini Tujuanmu! ##
