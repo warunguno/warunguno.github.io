@@ -12,7 +12,7 @@ products: ["/products/gami-lele-gami-udang-uno.jpg"]
 
 ## Perang Lele vs Udang! ##
 
-**Menang Mana di Lidah Kamu? Cobain rasanya satu persatu, cobain pedasnya!!!🔥🔥🔥🔥🔥**
+**Menang Mana di Lidah Kamu? Berani cobain rasanya satu persatu? Cobain 5 level pedasnya!!!🔥🔥🔥🔥🔥**
 
 📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
 
