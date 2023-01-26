@@ -5,7 +5,7 @@ description: Jika Kau Rindu, Maka Kau Tahu Kemana Kau Akan Kembali...
 price: ""
 price_promo: ""
 date: 2022-11-30 20:00:00 +07:00
-tags: ["alamat","sambal gami uno","sobat pedes"]
+tags: ["alamat","sambal gami uno","sobat wani pedes"]
 thumbnail: /products/foto-depan-sambal-gami-uno-pekalongan2.jpg
 products: ["/products/foto-depan-sambal-gami-uno-pekalongan2.jpg"]
 ---
