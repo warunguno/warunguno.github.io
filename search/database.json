@@ -10,9 +10,9 @@ layout: none
       "url"         : "{{ site.baseurl }}{{ post.url }}",
       "date"        : "{{ post.date }}",
       "products"    : "{{ site.baseurl }}{{ post.products[0] }}",
-      {//"price"       : "{{ post.price }}",
-      "price_promo" : "{{ post.price_promo }}"}
       "content"     : "{{ post.excerpt | strip_html | strip_newlines }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
+      // "price"       : "{{ post.price }}",
+      // "price_promo" : "{{ post.price_promo }}"
