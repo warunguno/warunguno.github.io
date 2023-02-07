@@ -12,7 +12,19 @@ products: ["/products/gami-lele-gami-udang-uno.jpg"]
 
 ## Perang Lele vs Udang! ##
 
+Coba bayangin gimana situasinya kalo ada Lele berkelahi sama Udang?
+
+Si Lele akan menyerang dengan patilnya, sedangkan Si Udang akan menghindar dengan gesitnya. Tampaknya Si Udang nggak bisa menyerang balik, karena dia nggak punya senjata, yang dia punya hanyalah kecepatan super.
+
+Nah, bisa bayangin kalo Lele diadu sama Udang di seporsi makanan yang enak di Pekalongan, rekomendasi sambal gami enak yang ramah di kantong.
+
+Hemm... Kerasa sedepnya!!!
+
 **Menang Mana di Lidah Kamu? Berani cobain rasanya satu persatu? Cobain 5 level pedasnya!!!🔥🔥🔥🔥🔥**
+
+***
+
+**Warung Sambal Gami Uno:**
 
 📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
 
