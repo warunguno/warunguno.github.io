@@ -16,7 +16,7 @@ Semisal di Senin awal pekan kamu ingin makan sesuatu yang darat banget, ya pilih
 
 Syarat tempat makan hits di Pekalongan bukan perkara punya banyak menu dan enak semata, tapi nggak bisa dipungkiri kalo sederet menu bikin kamu nggak akan kehabisan pilihan ketika makan lagi di Warung Sambal Gami Uno.
 
-Apalagi kalo ternyata Warung Sambal Gami Uno menjadi salah satu rekomendasi tempat makan enak terdekat di sekitar tempat tinggal atau kantor kamu.
+Apalagi kalo ternyata Warung Sambal Gami Uno menjadi salah satu rekomendasi tempat makan enak terdekat di sekitar tempat tinggal atau kantor kamu, ya tolong diterima saja dengan lapang dada. Kamu boleh mampir lagi dan lagi, kok...
 
 **Banyak pilihan menu bikin kamu bisa gonta-ganti menu setiap hari di Warung Sambal Gami Uno!**
 
