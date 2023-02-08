@@ -28,6 +28,6 @@ Hemm... Kerasa sedepnya!!!
 
 📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
 
-⏰ Buka pukul 11.00 - 22.00
+⏰ Buka pukul 11.00 - 21.00
 
 🍽 Dine in & Take Away
