@@ -14,7 +14,7 @@ Udah terbukti kan, kalo menu ayam jadi idola rakyat Pekalongan?
 
 Termasuk di Warung Sambal Gami Uno. Menu Best Seller-nya ya si Ayam.
 
-Terserah kamu, mau makan siang atau malam di Pekalongan, menu ayam tetap menjadi idola. Ditambah racikan Sambal Gami Uno, rasain aja sendiri! Jangan protes, kalo kamu ikut ketagihan!
+Keputusannya sih terserah kamu, mau makan siang atau malam di Pekalongan, menu ayam tetap menjadi idola. Ditambah racikan Sambal Gami Uno, rasain aja sendiri! Jangan protes, kalo kamu jadi ketagihan!
 
 **Nikmati Menu Best Seller Sambal Gami Uno bareng keluarga dan teman-teman kamu, yuk!**
 
@@ -24,6 +24,6 @@ Terserah kamu, mau makan siang atau malam di Pekalongan, menu ayam tetap menjadi
 
 📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
 
-⏰ Buka pukul 11.00 - 22.00
+⏰ Buka pukul 11.00 - 21.00
 
 🍽 Dine in & Take Away
