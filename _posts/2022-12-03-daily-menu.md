@@ -12,11 +12,11 @@ products: ["/products/daily-menu-lele-ati-ampela-telur-uno.jpg"]
 
 ## Daily Menu ##
 
-Semisal di Senin awal pekan kamu ingin makan sesuatu yang darat banget, ya pilihlah Gami Ayam. Lalu Selasa kamu kok ya pengen makan makhluk yang bisa berenang, pilihannya antara Udang atau Cumi. Rabunya kamu mau menghindari daging, bisa kali kamu pilih menu kulit kriuk.
+Semisal di Senin awal pekan kamu ingin makan sesuatu yang darat banget, ya pilihlah Gami Ayam. Lalu Selasa kamu kok ya pengen makan makhluk yang bisa berenang, pilihannya antara Udang, Lele atau Cumi. Hari-hari berikutnya kalo kamu mau sesuatu yang lain, bisa kali kamu pilih menu ati ampela, sate usus, ikan, paru, iga, kulit kriuk, tempe atau terong goreng. Semuanya sudah lolos _quality control_!
 
-Syarat tempat makan hits di Pekalongan bukan perkara punya banyak menu dan enak semata, tapi nggak bisa dipungkiri kalo sederet menu bikin kamu nggak akan kehabisan pilihan ketika makan lagi di Warung Sambal Gami Uno.
+Syarat tempat makan hits di Pekalongan itu bukan perkara punya banyak menu dan enak semata. Sederet menu bikin kamu punya variasi pilihan. Berani makan di Warung Sambal Gami Uno, artinya berani ketagihan balik lagi!
 
-Apalagi kalo ternyata Warung Sambal Gami Uno menjadi salah satu rekomendasi tempat makan enak terdekat di sekitar tempat tinggal atau kantor kamu, ya tolong diterima saja dengan lapang dada. Kamu boleh mampir lagi dan lagi, kok...
+Kalo ternyata Warung Sambal Gami Uno berada di sekitar tempat tinggal atau kantor kamu, ya tolong diterima saja dengan lapang dada. Apalagi kalo Warung Sambal Gami Uno jadi salah satu rekomendasi tempat makan enak terdekat, tentu saja kamu boleh mampir lagi dan lagi, kok...
 
 **Banyak pilihan menu bikin kamu bisa gonta-ganti menu setiap hari di Warung Sambal Gami Uno!**
 
@@ -26,6 +26,6 @@ Apalagi kalo ternyata Warung Sambal Gami Uno menjadi salah satu rekomendasi temp
 
 📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
 
-⏰ Buka pukul 11.00 - 22.00
+⏰ Buka pukul 11.00 - 21.00
 
 🍽 Dine in & Take Away
