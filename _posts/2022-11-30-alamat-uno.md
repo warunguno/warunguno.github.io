@@ -17,13 +17,3 @@ Mungkin harimu nggak selalu menyenangkan...
 Entah itu karena ribet urusan kerjaan, tugas sekolah atau kuliah yang belum beresan, atau sebab lain, tapi percayalah kamu selalu punya waktu untuk menentukan ketenanganmu.
 
 **Kamu pun tahu, kemana kamu akan kembali...**
-
-* * *
-
-**Warung Sambal Gami Uno:**
-
-📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
-
-⏰ Buka pukul 11.00 - 21.00
-
-🍽 Dine in & Take Away
