@@ -5,7 +5,7 @@ description: Perang Lele vs Udang! Menang Mana di Lidah Kamu?
 price: ""
 price_promo: ""
 date: 2022-12-02 08:00:00 +07:00
-tags: ["lele","udang","seafood"]
+tags: ["gami lele","gami udang","seafood"]
 thumbnail: /products/gami-lele-gami-udang-uno.jpg
 products: ["/products/gami-lele-gami-udang-uno.jpg"]
 ---
@@ -21,13 +21,3 @@ Nah, bisa bayangin kalo Lele diadu sama Udang di seporsi makanan yang enak di Pe
 Hemm... Kerasa sedepnya!!!
 
 **Menang Mana di Lidah Kamu? Berani cobain rasanya satu persatu? Cobain 5 level pedasnya!!!🔥🔥🔥🔥🔥**
-
-***
-
-**Warung Sambal Gami Uno:**
-
-📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
-
-⏰ Buka pukul 11.00 - 21.00
-
-🍽 Dine in & Take Away
