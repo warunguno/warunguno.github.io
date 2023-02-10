@@ -19,13 +19,3 @@ Syarat tempat makan hits di Pekalongan itu bukan perkara punya banyak menu dan e
 Kalo ternyata Warung Sambal Gami Uno berada di sekitar tempat tinggal atau kantor kamu, ya tolong diterima saja dengan lapang dada. Apalagi kalo Warung Sambal Gami Uno jadi salah satu rekomendasi tempat makan enak terdekat, tentu saja kamu boleh mampir lagi dan lagi, kok...
 
 **Banyak pilihan menu bikin kamu bisa gonta-ganti menu setiap hari di Warung Sambal Gami Uno!**
-
-***
-
-**Warung Sambal Gami Uno:**
-
-📍 Jalan Veteran No. 28 Pekalongan (50 meter sebelah utara RSUD Kraton)
-
-⏰ Buka pukul 11.00 - 21.00
-
-🍽 Dine in & Take Away
