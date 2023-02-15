@@ -41,3 +41,11 @@ footer {
 #backTop {
   z-index: 3;
 }
+
+@media (max-width: 767px) {
+ body {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+ }
+}
