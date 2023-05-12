@@ -36,7 +36,7 @@ whatsapp_text: Halo%20Kak%20Uno,%0ASaya%20Mau%20Pesan%20
 
 # Paginate home
 # paginate: 5
-# paginate_path: "/blog/page:num/"
+# paginate_path: "/produk/page:num/"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
