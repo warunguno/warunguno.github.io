@@ -37,7 +37,7 @@
 	<div class="h-screen overflow-auto max-md:pb-28 viewport">
 		<div class="flex flex-col items-center justify-center min-h-full py-6 [&_header]:w-full [&_main]:w-full [&_footer]:w-full [&_main_article]:mb-20 last:[&_main_article]:mb-0 bg-white max-w-[600px] mx-auto">
 
-			{% if page.url == '/' %}
+			{% if page.url == '/' or page.url contains 'produk/' %}
 			<header>
 				<img src="{{ site.url }}/assets/img/banner-main.jpeg" alt="main banner" width="600" height="240" class="-mt-6" />
 			</header>
