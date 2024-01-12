@@ -1,4 +1,4 @@
-Sitemap: https://sambalgamiuno.orderio.id/sitemap.xml
+Sitemap: https://sambalgamiuno.orderio.my.id/sitemap.xml
 
 User-agent: *
 
